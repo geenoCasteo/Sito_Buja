@@ -1,5 +1,5 @@
 .bfimg {
-    background-image: url('intestazione blu.png');
+    background-image: url('Sito_Buja/Sito_Anziani_static/images/intestazione blu.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 150px;
@@ -9,4 +9,8 @@
 
 .special .card-body {
   flex-grow: 0;
+}
+
+.card-img, .card-img-top {
+    max-height: 150px !important
 }
