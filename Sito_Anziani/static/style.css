@@ -1,0 +1,19 @@
+.bfimg {
+    background-image: url('intestazione blu.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+
+}
+
+.card-body {
+    background-color = red !important;
+}
+
+.special .card-body {
+  flex-grow: 0;
+}
+
+.card-img, .card-img-top {
+    max-height: 300px !important
+}
