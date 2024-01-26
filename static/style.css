@@ -6,6 +6,9 @@
 
 }
 
+.card-body {
+    background-color = red !important;
+}
 
 .special .card-body {
   flex-grow: 0;
